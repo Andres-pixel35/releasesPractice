@@ -1,0 +1,7 @@
+README.md
+setup.py
+releasesPractice/__init__.py
+releasesPractice.egg-info/PKG-INFO
+releasesPractice.egg-info/SOURCES.txt
+releasesPractice.egg-info/dependency_links.txt
+releasesPractice.egg-info/top_level.txt

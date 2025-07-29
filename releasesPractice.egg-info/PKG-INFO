@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: releasesPractice
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/Andres-pixel35/releasesPractice.git
+Author: Andres Rios
+Author-email: riosandres294@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
